@@ -1,1 +1,1 @@
-# readme
+python-redmineの勉強用
